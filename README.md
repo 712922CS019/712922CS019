@@ -26,20 +26,13 @@
 
 🤖 Aspiring *Machine Learning Engineer* passionate about building end-to-end ML solutions
 
-📍 Based in *Kotagiri, Tamil Nadu, India*
+📍 location: *Kotagiri, Tamil Nadu, India*
 
 🔭 Currently working on *ML projects* involving classification & regression
 
-🌱 Currently learning *Model Deployment, Cloud (AWS/GCP), Deep Learning & MLOps*
-
-💬 Ask me about *Python, Scikit-learn, Pandas, NumPy, Random Forest, Gradient Boosting*
+🌱 Currently learning *Model Deployment, Cloud (AWS/GCP), 
 
 📫 Reach me at **gokulvishal008@gmail.com*
-
-⚡ Fun fact: *I debug ML models at 2AM ☕*
-
-> “Build → Evaluate → Deploy → Repeat 🚀”
-
 <br clear="right"/>
 
 -----
