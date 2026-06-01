@@ -10,8 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+AI+%2F+ML+Solutions+%F0%9F%A4%96;Python+%7C+Scikit-learn+%7C+Random+Forest+%7C+Gradient+Boosting;End-to-End+ML+Pipelines+%7C+Feature+Engineering;Final+Year+CSE+%40+RVS+Technical+Campus+%F0%9F%8E%93)](https://github.com/712922CS019)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Junior+AI+%2F+ML+Engineer+%F0%9F%A4%96;Python+%7C+Pandas+%7C+NumPy+%7C+Scikit-learn;Random+Forest+%7C+Gradient+Boosting+%7C+XGBoost;Feature+Engineering+%7C+Model+Evaluation;Data+Analysis+%7C+EDA+%7C+Visualization;PyTorch+%7C+TensorFlow+%7C+Deep+Learning;REST+API+%7C+Kafka+%7C+SQL+%7C+Git;Seaborn+%7C+Matplotlib+%7C+Figma+%7C+Canva;Open+to+Opportunities+%F0%9F%9A%80)](https://github.com/712922CS019)
 </div>
 
 -----
